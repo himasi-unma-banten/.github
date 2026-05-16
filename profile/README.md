@@ -30,17 +30,21 @@ Melalui GitHub ini, kami mengelola berbagai repository yang berkaitan dengan pen
         <br />
         <sub><b>Sulaeman</b></sub>
       </a>
-      <br />
+      <br/>
+      <sub><b>Ketua Divisi Programming</b></sub>
+      <br/>
       <sub>Builder Website Himasi</sub>
     </td>
     <td align="center">
       <a href="https://github.com/ryzeurbae">
         <img src="https://github.com/ryzeurbae.png" width="90px;" alt="Moch Reza Ardian"/>
-        <br />
+        <br/>
         <sub><b>Moch Reza Ardian</b></sub>
       </a>
-      <br />
-      <sub>MPH</sub>
+      <br/>
+      <sub><b>Majelis Pendiri Himpunan</b></sub>
+      <br/>
+      <sub>Website Himasi Flow Planner</sub>
     </td>
   </tr>
 </table>
